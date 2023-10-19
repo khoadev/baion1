@@ -56,3 +56,4 @@ print('\n---ketqua')
 for kq in ketqua_list:
   print(f'''{kq['tc_name']} {kq['tc_score']}''')
 #endregion in ketqua
+
